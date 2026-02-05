@@ -12,3 +12,8 @@ if (burgerPrice >= 500) {
 else {
     console.log('coke = 30 tk')
 }
+
+
+// ternary oparetor 
+burgerPrice >= 500 ? console.log('Enjoy Your Free coke') : console.log('coke = 30 tk');
+
